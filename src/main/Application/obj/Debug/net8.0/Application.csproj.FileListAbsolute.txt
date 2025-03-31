@@ -1,0 +1,16 @@
+D:\atm-machine-back\src\main\Application\bin\Debug\net8.0\Application.deps.json
+D:\atm-machine-back\src\main\Application\bin\Debug\net8.0\Application.dll
+D:\atm-machine-back\src\main\Application\bin\Debug\net8.0\Application.pdb
+D:\atm-machine-back\src\main\Application\bin\Debug\net8.0\Domain.dll
+D:\atm-machine-back\src\main\Application\bin\Debug\net8.0\Domain.pdb
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.dll
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\refint\Application.dll
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\Application.pdb
+D:\atm-machine-back\src\main\Application\obj\Debug\net8.0\ref\Application.dll

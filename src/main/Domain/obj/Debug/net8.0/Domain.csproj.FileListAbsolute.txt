@@ -1,0 +1,12 @@
+D:\atm-machine-back\src\main\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\atm-machine-back\src\main\Domain\bin\Debug\net8.0\Domain.dll
+D:\atm-machine-back\src\main\Domain\bin\Debug\net8.0\Domain.pdb
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.dll
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\Domain.pdb
+D:\atm-machine-back\src\main\Domain\obj\Debug\net8.0\ref\Domain.dll
